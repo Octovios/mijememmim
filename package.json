@@ -1,0 +1,13 @@
+{
+  "name": "ggmax-bot-v2",
+  "version": "2.0.0",
+  "description": "Bot GGMAX — webhooks + cálculo de lucro no Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "express": "^4.18.2"
+  }
+}
